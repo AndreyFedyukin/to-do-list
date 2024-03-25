@@ -4,7 +4,7 @@
 
 Приложение для составления списка задач, написано на чистом JavaScript
 
-Ссылка на сайт https://andreyfedyukin.github.io/To-Do-List/
+Ссылка на сайт - <https://andreyfedyukin.github.io/to-do-list/>
 
 ---
 
